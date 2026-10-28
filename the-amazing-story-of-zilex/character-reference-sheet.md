@@ -22,9 +22,17 @@ Prepend to **every** prompt in the series:
 
 > "regal alien-humanoid woman, ageless early 20s, porcelain skin with luminous silver markings intensifying at the temples, piercing violet eyes, white-silver crown braid, high-collared black-and-platinum armor gown, power stone set in a choker, cold prodigy presence"
 
+### RATOP & MIZEL (Zilex's parents)
+
+> "middle-aged alien-humanoid commoner couple, warm amber-brown skin with faint silver freckle markings, worn rough-spun earth-tone clothes, Ratop broad-shouldered with greying temples, Mizel with kind weathered face and dark braided hair" — arrested in chains during the ceremony crackdown; their rescue is Zilex's driving motive
+
 ## The World
 
 - **Planet:** Nopaltia — a huge alien civilization split into 7 kingdoms
 - **Kingdoms & rulers:** Zorphia (King Zor), Alroxia (King Alroy), Toplic (King Taph), Zarad (King Dopal), Dorox (King Xorol), Xalia (Queen Alia — prodigy, first female monarch), Baldolph (King Doba)
+- **Zilex's home:** the Kingdom of Xalia — Queen Alia is *his* ruler; commoners kneel to her
+- **The Ceremony of Kings:** the public ceremony where commoners kneel to the rulers; site of the mass stand-up and violent guard crackdown on the night the star fell
 - **Power stones:** each ruler holds one — symbol of absolute power, bestows unmatched power on its owner
-- **The fallen star:** a silver-platinum stone that fell from the sky and bonded exclusively with Zilex
+- **The fallen star:** a silver-platinum stone that fell from the sky and bonded exclusively with Zilex. It actively called him by name before bonding; it burns anyone else who touches it. Visual signature: it glows with veins of light
+- **The cave:** the fallen star landed in a crater inside a cave; the cave is now Zilex and May's refuge and base of operations
+- **Remote sensing:** Queen Alia feels the fallen star's bonding the instant it happens, from any distance — her own stone flickers when it awakens
