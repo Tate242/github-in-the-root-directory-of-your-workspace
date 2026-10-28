@@ -35,4 +35,7 @@ Prepend to **every** prompt in the series:
 - **Power stones:** each ruler holds one — symbol of absolute power, bestows unmatched power on its owner
 - **The fallen star:** a silver-platinum stone that fell from the sky and bonded exclusively with Zilex. It actively called him by name before bonding; it burns anyone else who touches it. Visual signature: it glows with veins of light
 - **The cave:** the fallen star landed in a crater inside a cave; the cave is now Zilex and May's refuge and base of operations
-- **Remote sensing:** Queen Alia feels the fallen star's bonding the instant it happens, from any distance — her own stone flickers when it awakens
+- **Remote sensing:** Queen Alia feels the fallen star's bonding the instant it happens, from any distance — her own stone flickers when it awakens. She does NOT know the bonder's identity, name, or location
+- **Stone hierarchy:** ruler stones can flinch — even "fear" — when a greater power awakens; the fallen star ranks above all seven ruler stones. Alia's stone had "never blinked" before it, and the flinch persists into the day after the bonding
+- **The crackdown:** after the ceremony stand-up, Alia had all involved enslaved (~a thousand rebels); the hunt for survivors began at dawn the next day. Alia interrogates imprisoned rebels about the fallen object
+- **Witnessed descent:** the star's fall was seen publicly — ceremony rebels "saw something fall that night"; Alia has deduced an object fell
