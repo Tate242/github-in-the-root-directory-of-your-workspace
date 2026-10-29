@@ -27,18 +27,22 @@
     },
     {
       "file": "shots/s3-guard-charge.png",
+      "reference": "character-locks/xalian-guard.png",
       "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: dutch angle — chaos erupting at a night ceremony, royal guards in black-platinum armor with violet trim and faceless helms charging into a scattering crowd of alien commoners, torches toppling, motion blur, panic"
     },
     {
       "file": "shots/s4-zilex-closeup.png",
+      "reference": "character-locks/zilex.png",
       "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: tight close-up of a young alien-humanoid boy, 16, warm amber-brown skin with faint silver freckle markings, large dark eyes, short unruly black hair, rough-spun grey-blue patched tunic — face flickering in torchlight, eyes frozen in horror at something off-screen"
     },
     {
       "file": "shots/s5-parents-dragged.png",
+      "reference": "character-locks/zilex.png",
       "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: over-the-shoulder shot from behind a young boy — a middle-aged alien commoner couple, broad-shouldered man with greying temples, kind-faced woman with dark braid, amber-brown skin with silver freckle markings, worn earth-tone clothes, dragged away in chains by black-platinum armored guards, the woman reaching back toward camera, night, torchlight"
     },
     {
       "file": "shots/s6-chase.png",
+      "reference": "character-locks/zilex.png",
       "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: a young alien-humanoid boy, amber-brown skin with silver freckle markings, unruly black hair, grey-blue patched tunic, sprinting through dark village alleyways at night, guard torches closing in behind him, motion blur, a silver streak of light crossing the sky above the rooftops"
     },
     {
@@ -47,18 +51,22 @@
     },
     {
       "file": "shots/s8-hand-stone.png",
+      "reference": "character-locks/zilex.png",
       "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: extreme close-up — the young hand of a 16-year-old boy reaching toward a silver-platinum stone resting in its crater, the stone's veins of light brightening in response, dust particles swirling in the light beam, shallow depth of field"
     },
     {
       "file": "shots/s9-alia-throne.png",
+      "reference": "character-locks/queen-alia.png",
       "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: wide shot — a regal alien-humanoid woman with white-silver crown braid and black-and-platinum armor gown silhouetted on a vast dark throne in an empty throne room, cold violet rim light, her eyes snapping open glowing faintly violet"
     },
     {
       "file": "shots/s10-direct-address.png",
+      "reference": "character-locks/zilex.png",
       "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: direct address, dead-center framing — a young alien-humanoid boy, amber-brown skin with silver freckle markings, unruly black hair, grey-blue tunic, in dark cave shadows, face lit from below by the intense silver glow of a stone held in his cupped hands, veins of light reflecting in his dark eyes, determined expression"
     },
     {
       "file": "thumbnail.png",
+      "reference": "character-locks/zilex.png",
       "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale, consistent character design: a young alien-humanoid boy, 16, amber-brown skin with silver freckle markings, unruly black hair, rough-spun grey-blue tunic, half-lit by intense silver light from a glowing stone, reaching toward it, blurred orange guard torches in deep background bokeh, dramatic movie-poster composition, negative space at top for title text"
     }
   ]
