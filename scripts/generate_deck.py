@@ -53,8 +53,14 @@ def main() -> None:
                 if ref_path not in uploads:
                     print(f"Uploading reference: {ref_path}")
                     uploads[ref_path] = fal_client.upload_file(ref_path)
-                arguments["image_url"] = uploads[ref_path]
-                endpoint = "fal-ai/flux/dev/redux"
+                if item.get("mode") == "pulid":
+                    # PuLID: face-identity lock (strongest consistency for faces)
+                    arguments["reference_image_url"] = uploads[ref_path]
+                    endpoint = "fal-ai/flux-pulid"
+                else:
+                    # Redux: style/content guide (fine for helmed figures, objects)
+                    arguments["image_url"] = uploads[ref_path]
+                    endpoint = "fal-ai/flux/dev/redux"
             print(f"Generating {out_path} via {endpoint} ...")
             result = fal_client.subscribe(endpoint, arguments=arguments)
             url = result["images"][0]["url"]
