@@ -1,0 +1,56 @@
+{
+  "output_dir": "generated-assets/part-1",
+  "model": "fal-ai/kling-video/v1.6/standard/image-to-video",
+  "items": [
+    {
+      "file": "shots/s1-aerial-starfall.mp4",
+      "keyframe": "shots/s1-aerial-starfall.png",
+      "prompt": "slow forward aerial push over a dark alien world at night, a brilliant silver star streaks down across the sky leaving a glowing trail toward rocky hills"
+    },
+    {
+      "file": "shots/s2-ceremony-standup.mp4",
+      "keyframe": "shots/s2-ceremony-standup.png",
+      "prompt": "slow camera push-in on a tense defiant crowd of alien commoners at a torch-lit night ceremony, rising unrest, torches flickering, clenched fists rising"
+    },
+    {
+      "file": "shots/s3-guard-charge.mp4",
+      "keyframe": "shots/s3-guard-charge.png",
+      "prompt": "armored guards in black-platinum charge into a scattering crowd of commoners, whip pan, torches toppling, chaos, motion blur"
+    },
+    {
+      "file": "shots/s4-zilex-closeup.mp4",
+      "keyframe": "shots/s4-zilex-closeup.png",
+      "prompt": "tight close-up, the young man's eyes dart in panic then freeze in horror, torchlight flickering across his face, subtle handheld tremble"
+    },
+    {
+      "file": "shots/s5-parents-dragged.mp4",
+      "keyframe": "shots/s5-parents-dragged.png",
+      "prompt": "over-the-shoulder: a chained middle-aged couple dragged away by armored guards, the woman reaches back toward camera, slow pull-back, torchlight"
+    },
+    {
+      "file": "shots/s6-chase.mp4",
+      "keyframe": "shots/s6-chase.png",
+      "prompt": "shaky handheld tracking shot, the young man sprints through dark village alleys at night, guard torches closing in behind, a silver streak of light crosses the sky above the rooftops"
+    },
+    {
+      "file": "shots/s7-crater-stone.mp4",
+      "keyframe": "shots/s7-crater-stone.png",
+      "prompt": "static insert inside a dark cave: a silver-platinum stone's veins of light pulse slowly in a smoking crater, dust particles drift through the glow, subtle smoke rising"
+    },
+    {
+      "file": "shots/s8-hand-stone.mp4",
+      "keyframe": "shots/s8-hand-stone.png",
+      "prompt": "extreme close-up: a young man's hand slowly approaches the silver-platinum stone, its veins of light brighten in response, dust swirls in the light beam"
+    },
+    {
+      "file": "shots/s9-alia-throne.mp4",
+      "keyframe": "shots/s9-alia-throne.png",
+      "prompt": "wide dark throne room: the silhouetted queen's eyes snap open with a faint violet glow, cold rim light, very subtle slow camera drift"
+    },
+    {
+      "file": "shots/s10-direct-address.mp4",
+      "keyframe": "shots/s10-direct-address.png",
+      "prompt": "dead-center direct address: the young man stares into the lens, silver stone glow pulsing from his cupped hands, veins of light reflecting in his dark eyes, cave darkness behind"
+    }
+  ]
+}

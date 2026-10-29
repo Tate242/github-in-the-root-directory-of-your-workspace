@@ -1,0 +1,16 @@
+{
+  "output_dir": "generated-assets/part-1/vo",
+  "voice": "am_michael",
+  "items": [
+    { "file": "s1.wav", "text": "It chose a peasant boy... over seven rulers." },
+    { "file": "s2.wav", "text": "We were done kneeling to Queen Alia. Tonight... we stood up." },
+    { "file": "s3.wav", "text": "Then the guards moved. Everything went wrong... fast." },
+    { "file": "s4.wav", "text": "I searched for my parents. Found them... in chains." },
+    { "file": "s5.wav", "text": "I tried to free them. I failed." },
+    { "file": "s6.wav", "text": "I ran. They hunted. Then... the sky answered." },
+    { "file": "s7.wav", "text": "A fallen star. Like nothing ever made on Nopaltia." },
+    { "file": "s8.wav", "text": "It was calling me... like it already knew my name." },
+    { "file": "s9.wav", "text": "Far away... the prodigy Queen felt it." },
+    { "file": "s10.wav", "text": "She's coming for it. And for me." }
+  ]
+}
