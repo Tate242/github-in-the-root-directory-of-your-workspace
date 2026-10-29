@@ -12,7 +12,7 @@ Prepend to **every** prompt in the series:
 
 ### ZILEX (hero)
 
-> "young alien-humanoid boy, 16, lean build, warm amber-brown skin with faint silver freckle markings (Nopaltian commoner trait), large expressive dark eyes, short unruly black hair, rough-spun grey-blue patched tunic, leather cord necklace, kind determined face"
+> "alien-humanoid young man, 17, tall lean build with a defined jawline, warm amber-brown skin with faint silver freckle markings (Nopaltian commoner trait), large expressive dark eyes, short unruly black hair, rough-spun grey-blue patched tunic, leather cord necklace, kind determined face"
 
 ### MAY (best friend)
 

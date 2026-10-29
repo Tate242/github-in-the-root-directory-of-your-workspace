@@ -3,7 +3,7 @@
   "items": [
     {
       "file": "character-locks/zilex.png",
-      "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale, consistent character design: character reference portrait of a young alien-humanoid boy, 16, lean build, warm amber-brown skin with faint silver freckle markings, large expressive dark eyes, short unruly black hair, rough-spun grey-blue patched tunic, leather cord necklace, kind determined face, front three-quarter view, neutral expression, plain dark background"
+      "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale, consistent character design: character reference portrait of an alien-humanoid young man, 17, tall lean build with a defined jawline, warm amber-brown skin with faint silver freckle markings, large expressive dark eyes, short unruly black hair, rough-spun grey-blue patched tunic, leather cord necklace, kind determined face, front three-quarter view, neutral expression, plain dark background"
     },
     {
       "file": "character-locks/queen-alia.png",
@@ -33,17 +33,17 @@
     {
       "file": "shots/s4-zilex-closeup.png",
       "reference": "character-locks/zilex.png",
-      "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: tight close-up of a young alien-humanoid boy, 16, warm amber-brown skin with faint silver freckle markings, large dark eyes, short unruly black hair, rough-spun grey-blue patched tunic — face flickering in torchlight, eyes frozen in horror at something off-screen"
+      "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: tight close-up of an alien-humanoid young man, 17, defined jawline, warm amber-brown skin with faint silver freckle markings, large dark eyes, short unruly black hair, rough-spun grey-blue patched tunic — face flickering in torchlight, eyes frozen in horror at something off-screen"
     },
     {
       "file": "shots/s5-parents-dragged.png",
       "reference": "character-locks/zilex.png",
-      "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: over-the-shoulder shot from behind a young boy — a middle-aged alien commoner couple, broad-shouldered man with greying temples, kind-faced woman with dark braid, amber-brown skin with silver freckle markings, worn earth-tone clothes, dragged away in chains by black-platinum armored guards, the woman reaching back toward camera, night, torchlight"
+      "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: over-the-shoulder shot from behind a tall 17-year-old — a middle-aged alien commoner couple, broad-shouldered man with greying temples, kind-faced woman with dark braid, amber-brown skin with silver freckle markings, worn earth-tone clothes, dragged away in chains by black-platinum armored guards, the woman reaching back toward camera, night, torchlight"
     },
     {
       "file": "shots/s6-chase.png",
       "reference": "character-locks/zilex.png",
-      "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: a young alien-humanoid boy, amber-brown skin with silver freckle markings, unruly black hair, grey-blue patched tunic, sprinting through dark village alleyways at night, guard torches closing in behind him, motion blur, a silver streak of light crossing the sky above the rooftops"
+      "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: an alien-humanoid young man, 17, amber-brown skin with silver freckle markings, unruly black hair, grey-blue patched tunic, sprinting through dark village alleyways at night, guard torches closing in behind him, motion blur, a silver streak of light crossing the sky above the rooftops"
     },
     {
       "file": "shots/s7-crater-stone.png",
@@ -52,7 +52,7 @@
     {
       "file": "shots/s8-hand-stone.png",
       "reference": "character-locks/zilex.png",
-      "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: extreme close-up — the young hand of a 16-year-old boy reaching toward a silver-platinum stone resting in its crater, the stone's veins of light brightening in response, dust particles swirling in the light beam, shallow depth of field"
+      "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: extreme close-up — the hand of a 17-year-old young man reaching toward a silver-platinum stone resting in its crater, the stone's veins of light brightening in response, dust particles swirling in the light beam, shallow depth of field"
     },
     {
       "file": "shots/s9-alia-throne.png",
@@ -62,12 +62,12 @@
     {
       "file": "shots/s10-direct-address.png",
       "reference": "character-locks/zilex.png",
-      "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: direct address, dead-center framing — a young alien-humanoid boy, amber-brown skin with silver freckle markings, unruly black hair, grey-blue tunic, in dark cave shadows, face lit from below by the intense silver glow of a stone held in his cupped hands, veins of light reflecting in his dark eyes, determined expression"
+      "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale: direct address, dead-center framing — an alien-humanoid young man, 17, amber-brown skin with silver freckle markings, unruly black hair, grey-blue tunic, in dark cave shadows, face lit from below by the intense silver glow of a stone held in his cupped hands, veins of light reflecting in his dark eyes, determined expression"
     },
     {
       "file": "thumbnail.png",
       "reference": "character-locks/zilex.png",
-      "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale, consistent character design: a young alien-humanoid boy, 16, amber-brown skin with silver freckle markings, unruly black hair, rough-spun grey-blue tunic, half-lit by intense silver light from a glowing stone, reaching toward it, blurred orange guard torches in deep background bokeh, dramatic movie-poster composition, negative space at top for title text"
+      "prompt": "Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale, consistent character design: an alien-humanoid young man, 17, defined jawline, amber-brown skin with silver freckle markings, unruly black hair, rough-spun grey-blue tunic, half-lit by intense silver light from a glowing stone, reaching toward it, blurred orange guard torches in deep background bokeh, dramatic movie-poster composition, negative space at top for title text"
     }
   ]
 }

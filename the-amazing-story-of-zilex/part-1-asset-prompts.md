@@ -21,7 +21,7 @@ Complete generation prompts for every scene and character in Part 1. Copy-paste 
 ## 1. Character Locks (generate first)
 
 ### 1.1 ZILEX (hero)
-> Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale, consistent character design: character reference portrait of a young alien-humanoid boy, 16, lean build, warm amber-brown skin with faint silver freckle markings, large expressive dark eyes, short unruly black hair, rough-spun grey-blue patched tunic, leather cord necklace, kind determined face, front three-quarter view, neutral expression, plain dark background
+> Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale, consistent character design: character reference portrait of an alien-humanoid young man, 17, tall lean build with a defined jawline, warm amber-brown skin with faint silver freckle markings, large expressive dark eyes, short unruly black hair, rough-spun grey-blue patched tunic, leather cord necklace, kind determined face, front three-quarter view, neutral expression, plain dark background
 
 ### 1.2 QUEEN ALIA (antagonist)
 > Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale, consistent character design: character reference portrait of a regal alien-humanoid woman, ageless early 20s, porcelain skin with luminous silver markings intensifying at the temples, piercing violet eyes, white-silver crown braid, high-collared black-and-platinum armor gown, power stone set in a choker, cold prodigy presence, front three-quarter view, plain dark background
@@ -50,15 +50,15 @@ Complete generation prompts for every scene and character in Part 1. Copy-paste 
 
 ### S4 — 13–18s · Tight close-up · "I searched for my parents. Found them… in chains."
 **VIDEO:**
-> Vertical 9:16 cinematic sci-fi fantasy film shot, volumetric lighting, subtle film grain: tight close-up of a young alien-humanoid boy, 16, warm amber-brown skin with faint silver freckle markings, large dark eyes, short unruly black hair (use Zilex character reference) — face flickering in torchlight, eyes darting in panic, then freezing on something off-screen in horror
+> Vertical 9:16 cinematic sci-fi fantasy film shot, volumetric lighting, subtle film grain: tight close-up of an alien-humanoid young man, 17, defined jawline, warm amber-brown skin with faint silver freckle markings, large dark eyes, short unruly black hair (use Zilex character reference) — face flickering in torchlight, eyes darting in panic, then freezing on something off-screen in horror
 
 ### S5 — 18–23s · Over-the-shoulder · "I tried to free them. I failed."
 **VIDEO:**
-> Vertical 9:16 cinematic sci-fi fantasy film shot, volumetric lighting, subtle film grain: over-the-shoulder shot from behind the boy — a middle-aged commoner couple (broad-shouldered man with greying temples, kind-faced woman with dark braid, amber-brown skin with silver freckles, earth-tone clothes) dragged away in chains by black-platinum guards, the woman reaching back toward camera, night, torchlight
+> Vertical 9:16 cinematic sci-fi fantasy film shot, volumetric lighting, subtle film grain: over-the-shoulder shot from behind a tall 17-year-old — a middle-aged commoner couple (broad-shouldered man with greying temples, kind-faced woman with dark braid, amber-brown skin with silver freckles, earth-tone clothes) dragged away in chains by black-platinum guards, the woman reaching back toward camera, night, torchlight
 
 ### S6 — 23–28s · Handheld tracking · "I ran. They hunted. Then… the sky answered."
 **VIDEO:**
-> Vertical 9:16 cinematic sci-fi fantasy film shot, volumetric lighting, subtle film grain: shaky handheld tracking shot — the boy (Zilex reference) sprinting through dark village alleyways at night, guard torches closing in behind him, motion blur, desperate escape, a silver streak of light crossing the sky above the rooftops
+> Vertical 9:16 cinematic sci-fi fantasy film shot, volumetric lighting, subtle film grain: shaky handheld tracking shot — the young man (Zilex reference) sprinting through dark village alleyways at night, guard torches closing in behind him, motion blur, desperate escape, a silver streak of light crossing the sky above the rooftops
 
 ### S7 — 28–32s · Insert shot · "A fallen star. Like nothing ever made on Nopaltia."
 **VIDEO:**
@@ -66,7 +66,7 @@ Complete generation prompts for every scene and character in Part 1. Copy-paste 
 
 ### S8 — 32–35s · Extreme close-up · "It was calling me… like it already knew my name."
 **VIDEO:**
-> Vertical 9:16 cinematic sci-fi fantasy film shot, volumetric lighting, subtle film grain: extreme close-up — the young hand of a 16-year-old boy reaching slowly toward a silver-platinum stone resting in its crater, the stone's veins of light brightening in response to his approach, dust particles swirling in the light beam, shallow depth of field
+> Vertical 9:16 cinematic sci-fi fantasy film shot, volumetric lighting, subtle film grain: extreme close-up — the hand of a 17-year-old young man reaching slowly toward a silver-platinum stone resting in its crater, the stone's veins of light brightening in response to his approach, dust particles swirling in the light beam, shallow depth of field
 
 ### S9 — 35–40s · Cutaway wide · "Far away… the prodigy Queen felt it."
 **VIDEO:**
@@ -74,14 +74,14 @@ Complete generation prompts for every scene and character in Part 1. Copy-paste 
 
 ### S10 — 40–45s · Direct address · "She's coming for it. And for me."
 **VIDEO:**
-> Vertical 9:16 cinematic sci-fi fantasy film shot, volumetric lighting, subtle film grain: direct address, dead-center lens — the boy (Zilex reference) in dark cave shadows, face lit from below by the intense silver glow of the stone held in his cupped hands, veins of light reflecting in his dark eyes, determined expression
+> Vertical 9:16 cinematic sci-fi fantasy film shot, volumetric lighting, subtle film grain: direct address, dead-center lens — the young man (Zilex reference) in dark cave shadows, face lit from below by the intense silver glow of the stone held in his cupped hands, veins of light reflecting in his dark eyes, determined expression
 
 ---
 
 ## 3. Thumbnail
 
 **STILL (Midjourney):**
-> Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale, consistent character design: a young alien-humanoid boy, 16, amber-brown skin with silver freckle markings, unruly black hair, rough-spun grey-blue tunic (Zilex reference), half-lit by intense silver light from a glowing stone, reaching toward it, blurred orange guard torches in deep background bokeh, dramatic movie-poster composition, negative space at top for title text
+> Vertical 9:16 cinematic sci-fi fantasy film still, volumetric lighting, subtle film grain, epic scale, consistent character design: an alien-humanoid young man, 17, defined jawline, amber-brown skin with silver freckle markings, unruly black hair, rough-spun grey-blue tunic (Zilex reference), half-lit by intense silver light from a glowing stone, reaching toward it, blurred orange guard torches in deep background bokeh, dramatic movie-poster composition, negative space at top for title text
 
 **Post:** Add bold text "IT CHOSE HIM." in the top negative space — white, condensed sans-serif, slight glow.
 
